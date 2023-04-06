@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info-header{
+   width: 100%;
+   display: flex;
+}
+
+#name{
+    
+}
+
+#name::first-letter{
+    text-transform: uppercase;
+    color: red;
+}
